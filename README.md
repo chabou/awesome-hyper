@@ -37,7 +37,7 @@ Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyp
 
 Name and description | Compatibility | Downloads
 -------------------- | :-----------: | --------
-[hyperline](https://www.npmjs.com/package/hyperline) - A status line at the bottom of your Hyper! |![MacOS](assets/os-apple-true.png) [![Windows](assets/os-windows-true.png)]() [![Linux](assets/os-linux-true.png)]()|[![npm](https://img.shields.io/npm/dm/hyperline.svg?label=DL)]()
+[hyperline](https://www.npmjs.com/package/hyperline) - A status line at the bottom of your Hyper! |![MacOS](assets/os-apple-true.png) ![Windows](assets/os-windows-true.png) ![Linux](assets/os-linux-true.png)]|[![npm](https://img.shields.io/npm/dm/hyperline.svg?label=DL)]()
 [hypercwd](https://www.npmjs.com/package/hypercwd) - Open new tabs with the same directory as your current tab. |![MacOS](assets/os-apple-true.png) ![Windows](assets/os-windows-false.png) ![Linux](assets/os-linux-true.png)|[![npm](https://img.shields.io/npm/dm/hypercwd.svg?label=DL)]()
 [hyperterm-1password](https://www.npmjs.com/package/hyperterm-1password) - Integration with 1Password (password manager). |![MacOS](assets/os-apple-true.png) ![Windows](assets/os-windows-false.png) ![Linux](assets/os-linux-false.png)|[![npm](https://img.shields.io/npm/dm/hyperterm-1password.svg?label=DL)]()
 [hyperterm-visor](https://www.npmjs.com/package/hyperterm-visor) - Show/hide your Hyper terminal with a global hotkey & more. |![MacOS](assets/os-apple-false.png) ![Windows](assets/os-windows-true.png) ![Linux](assets/os-linux-false.png)|[![npm](https://img.shields.io/npm/dm/hyperterm-visor.svg?label=DL)]()
